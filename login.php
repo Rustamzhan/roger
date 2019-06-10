@@ -15,7 +15,7 @@
 	}
 ?>
 <html>
-<body>
+<body style="background-color:lavender">
 	<iframe name="chat" src="chat.php" width="100%" height="550px"></iframe>
 	<iframe name="speak" src="speak.php" width="100%" height="50px"></iframe>
 	<br />
